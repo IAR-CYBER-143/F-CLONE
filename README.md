@@ -15,3 +15,15 @@ pip install requests
 pip install mechanize
 
 pip install bs4
+
+git clone https://github.com/IAR-CYBER-143/F-CLONE
+
+cd F-CLONE
+
+git pull
+
+python FILE-CLONE.py
+
+--------------------------------------------------------------------
+
+Note: (This Tools Are Paid, So You Need Permission To Use This Tools)
