@@ -16,6 +16,8 @@ pip install mechanize
 
 pip install bs4
 
+rm -rf F-CLONE
+
 git clone https://github.com/IAR-CYBER-143/F-CLONE
 
 cd F-CLONE
